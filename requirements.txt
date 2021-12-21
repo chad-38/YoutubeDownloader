@@ -1,0 +1,6 @@
+unicode_literals
+easygui
+matplotlib
+tkinter
+PIL
+youtube_dl
